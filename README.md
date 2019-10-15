@@ -9,3 +9,5 @@
 1. admin profile update not working:__Class demo does not exist__
 1. admin password change not working:__Class demo does not exist__
 1. dipatcher unable to select tags
+1. In PaymentController, Card model does not have relation between other models but calls user_id need to indicate it.
+1.
